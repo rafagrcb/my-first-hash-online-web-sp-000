@@ -1,6 +1,5 @@
 def my_hash(hash)
-  your_hash {"Zelda" => "Magic"
-  
+  hash = {"Zelda" => "Magic", "Link" => "Brave"}
 end
 
 
